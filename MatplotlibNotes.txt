@@ -1,0 +1,17 @@
+MATPLOTLIB
+
+
+Matplotlib is the most popular plotting library for python
+It gives us control over every aspect of a figure
+It was designed to have a similar feel to MatLab's graphical plotting
+It works really well with pandas and Numpy
+
+
+For installation
+conda install matplotlib
+pip install matplotlib
+
+
+Visit:
+
+matplotlib.org/gallery.html
